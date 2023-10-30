@@ -28,7 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codingmiss&show_icons=true&locale=en" alt="codingmiss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingmiss&" alt="codingmiss" /></p>
-# Profile
+
 <!--
 **Codingmiss/Codingmiss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
